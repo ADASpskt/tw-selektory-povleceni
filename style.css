@@ -1,0 +1,54 @@
+.tlacitko {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    opacity: 0.5;
+    transition: opacity 0.3s;
+
+
+}
+
+h1 { 
+    color: #0164C8
+}
+
+h2 { 
+    color: #0164C8
+}
+
+h3 { 
+    color: #0164C8
+}
+
+.blok {
+    border-radius: 5px;
+    background-color: #00ffff;
+}
+
+.upozorneni {
+    background-color: yellow;
+}
+
+a{
+    color: #00f74a;
+    text-decoration: none;
+}
+
+.druhy {
+    border-radius: 5px;
+    background-color: #df7bc9;
+}
+
+.treti {
+    border-radius: 5px;
+    background-color: #c5c5c5; 
+}
+
+img {
+    height: 300px;
+    object-fit: cover;
+    width: 30%;
+}
